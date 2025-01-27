@@ -38,3 +38,6 @@ gem 'logger'
 
 # base64 library, which is no longer part of the default gems starting from Ruby 3.4.0
 gem 'base64'
+
+gem 'jekyll-remote-theme'
+gem 'jekyll-include-cache'

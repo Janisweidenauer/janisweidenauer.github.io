@@ -33,6 +33,7 @@ github_username:  janisweidenauer
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 remote_theme: "mmistakes/minimal-mistakes"
 # Exclude from processing.
