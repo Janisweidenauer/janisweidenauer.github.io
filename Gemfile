@@ -31,13 +31,3 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-
-# csv library, which was removed as a default gem in Ruby 3.4.0 and later.
-gem 'csv'
-gem 'logger'
-
-# base64 library, which is no longer part of the default gems starting from Ruby 3.4.0
-gem 'base64'
-
-gem 'jekyll-remote-theme'
-gem 'jekyll-include-cache'
