@@ -20,8 +20,8 @@ author: Janis Weidenauer
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Test: "test"
+  About Me: "/about/"
+  Test: "/test/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
