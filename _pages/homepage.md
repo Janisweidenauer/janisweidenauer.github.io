@@ -2,6 +2,7 @@
 layout: page
 title: Homepage
 subtitle: Welcome to WeiCo.
+permalink: /
 ---
 
 My name is Janis Weidenauer, I am an electrical engineer with 7+ years of hardware design expertise with a focus on PCB design and electromagnetic compatibility.
