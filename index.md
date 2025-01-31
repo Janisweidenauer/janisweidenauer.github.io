@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Janis Weidenauer
+title: Hello!
 subtitle: Electronics & IT
 permalink: /
 ---
 
-My name is Janis, I develop hardware and software since +25 years engaging in Projects ranging from PCB Design for ex-Equipment to GNSS Receiver Algorithm Implementation in C++.
-
-Feel free to contact me, if you need support!
+Hello, I’m Janis, and I’ve been developing hardware and software solutions for over 20 years. My expertise ranges from PCB design for explosion-proof equipment to implementing advanced GNSS receiver algorithms in C++. If you need any support or would like to collaborate, please feel free to reach out.
